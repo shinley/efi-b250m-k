@@ -1,10 +1,11 @@
-<h1>EFI ASUS PRIME B250M-K</h1>
+## EFI /ASUS PRIME B250M-K
+![asus prime b250m-k](https://c1.neweggimages.com/ProductImage/13-132-948-V01.jpg)
 
-|           |                |
-|-----------|----------------|
-| MAINBOARD | ASUS B250M-K   |
-| PROCESSOR | INTEL i3 7100  |
-| RAM       | 8GB            |
-| iGPU      | HD 630         |
-| SSD       | Kingston AV400 |
-|           |                |
+
+### Specification:
+ - Asus B250M-K
+ - i3 7100 3.9 GHz
+ - RAM 8GB DDR4
+ - Intel HD 630
+ - SSD 128 GB Kingston AV400
+ - macOS Catalina 10.15.6
