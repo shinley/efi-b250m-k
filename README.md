@@ -7,4 +7,4 @@
 | RAM       | 8GB            |
 | iGPU      | HD 630         |
 | SSD       | Kingston AV400 |
-| OS        | macOS Catalina 10.15.6 |
+|           |                |
