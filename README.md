@@ -8,4 +8,5 @@
  - RAM 8GB DDR4
  - Intel HD 630
  - SSD 128 GB Kingston AV400
- - macOS Catalina 10.15.6
+ - macOS Catalina 10.15.6 (Upgrade to Big Sur beta 4)
+
