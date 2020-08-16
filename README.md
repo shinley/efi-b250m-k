@@ -2,12 +2,18 @@
 ![asus prime b250m-k](https://c1.neweggimages.com/ProductImage/13-132-948-V01.jpg)
 
 
-### Specification:
-
- - Asus Prime B250M-K
- - i3 7100 3.9 GHz
- - RAM 8GB DDR4
- - Intel HD 630
- - SSD 128 GB Kingston AV400
- - macOS Catalina 10.15.6 (Upgrade to Big Sur beta 4)
+## Specification:
+ 
+ 
+| Specifications | Detail |
+|---|---|
+| Computer model  | Custom desktop  |
+| Mainboard  |  Asus Prime B250M-K |
+| Processor  | Intel i3 7100 3.9 Ghz  |
+| Memory  | 8GB RAM DDR4  |
+| Hard Disk  | Kingston SSD 128 GB  |
+| Integrated Graphics  | HD 630  |
+| Monitor  | LG 1810B  |
+| Sound Card  |  Realtek ALC887 (layout-id:2)  |
+| Wireless Card  | No  |
 
