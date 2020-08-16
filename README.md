@@ -1,11 +1,9 @@
-## EFI - ASUS PRIME B250M-K
+## **EFI - ASUS PRIME B250M-K**
 ![asus prime b250m-k](https://c1.neweggimages.com/ProductImage/13-132-948-V01.jpg)
 
 
-## Specification:
+## **Specification**:
 
-&NewLine;
-&NewLine;
 
 | Specifications | Detail |
 |---|---|
