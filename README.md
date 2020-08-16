@@ -3,8 +3,10 @@
 
 
 ## Specification:
- 
- 
+
+&NewLine;
+&NewLine;
+
 | Specifications | Detail |
 |---|---|
 | Computer model  | Custom desktop  |
