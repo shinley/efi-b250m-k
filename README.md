@@ -1,5 +1,9 @@
 ## **EFI - ASUS PRIME B250M-K**
 ![asus prime b250m-k](https://c1.neweggimages.com/ProductImage/13-132-948-V01.jpg)
+
+## Installed
+
+
 ## **Specification**:
 | Specifications | Detail |
 |---|---|
@@ -12,4 +16,5 @@
 | Monitor  | LG 1810B  |
 | Sound Card  |  Realtek ALC887 (layout-id:2)  |
 | Wireless Card  | No  |
+| OS | macOS Big Sur beta 5|
 
